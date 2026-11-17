@@ -18,4 +18,4 @@ A Python bioinformatics pipeline built with **Biopython**, **Pandas**, and **Mat
 ## Tech Stack
 - **Language:** Python 3
 - **Libraries:** Biopython, Pandas, Matplotlib, Seaborn
-- **Environment:** Google Colab / Jupyter Notebook
+- **Environment:** Google Colab
